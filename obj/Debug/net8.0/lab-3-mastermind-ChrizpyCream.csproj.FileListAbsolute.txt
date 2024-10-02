@@ -1,0 +1,15 @@
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\bin\Debug\net8.0\lab-3-mastermind-ChrizpyCream.exe
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\bin\Debug\net8.0\lab-3-mastermind-ChrizpyCream.deps.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\bin\Debug\net8.0\lab-3-mastermind-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\bin\Debug\net8.0\lab-3-mastermind-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\bin\Debug\net8.0\lab-3-mastermind-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\refint\lab-3-mastermind-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\lab-3-mastermind-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-3-mastermind-ChrizpyCream\obj\Debug\net8.0\ref\lab-3-mastermind-ChrizpyCream.dll
